@@ -1,0 +1,6 @@
+cup, 3, 2022, 250
+bottle, 3, 2022, 450
+t_shirt, 3, 2022, 400
+baseball_cap, 3, 2022, 500
+pen, 3, 2022, 190
+flashlight, 3, 2022, 400

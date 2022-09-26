@@ -1,0 +1,5 @@
+bag, 2, 2000, 1550
+t_shirt, 2, 2001, 1205
+baseball_cap, 2, 2002, 1140
+flash_drive, 2, 2005, 1450
+flashlight, 2, 2000, 1040

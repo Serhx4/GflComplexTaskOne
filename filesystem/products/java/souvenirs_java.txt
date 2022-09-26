@@ -1,0 +1,5 @@
+cup, 0, 1995, 1550
+t_shirt, 0, 1996, 2050
+baseball_cap, 0, 1997, 1940
+flash_drive, 0, 1999, 1550
+flashlight, 0, 1995, 2200
